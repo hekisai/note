@@ -1,0 +1,7 @@
+# smb.confの見方
+
+#cat /etc/samba/smb.conf
+
+
+
+
